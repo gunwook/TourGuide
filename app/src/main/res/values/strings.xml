@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="tour_api">tour_api</string>
+    <string name="kakao_api">kakao_api</string>
+    <string name="near_tour_list">내주변 관광정보</string>
+</resources>
